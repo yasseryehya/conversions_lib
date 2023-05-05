@@ -1,0 +1,12 @@
+README.md
+setup.py
+conversionslib.egg-info/PKG-INFO
+conversionslib.egg-info/SOURCES.txt
+conversionslib.egg-info/dependency_links.txt
+conversionslib.egg-info/requires.txt
+conversionslib.egg-info/top_level.txt
+numpy/__init__.py
+numpy/csv2np.py
+numpy/csv2npz.py
+numpy/npz2csv.py
+numpy/npz2np.py

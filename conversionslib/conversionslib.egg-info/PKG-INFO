@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: conversionslib
+Version: 0.1
+Summary: A library for converting between different data types and file formats
+Home-page: https://github.com/yasseryehya/conversions_lib
+Author: Yasser Yahia
+Author-email: yasso.soly@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/yasseryehya/conversions_lib/issues
+Project-URL: Source Code, https://github.com/yasseryehya/conversions_lib
+Keywords: numpy csv conversion npz
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+A library for converting between different data types and file formats, incloading...
+
