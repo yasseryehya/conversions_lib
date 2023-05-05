@@ -4,9 +4,8 @@
 
 ## Installation
 
-You can install `conversionslib` using pip:
-```bash
-pip install conversionslib
+```
+TODO
 ```
 
 ## Usage
